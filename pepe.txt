@@ -1,0 +1,3 @@
+Caca,Pedo,2.18,19
+Pipi,ñoquis,7.12,90
+Hola,pepin,8.99,14
